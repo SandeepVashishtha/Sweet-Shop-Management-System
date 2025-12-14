@@ -1,0 +1,34 @@
+# Commit Message Template for Sweet Shop Project
+# 
+# Format:
+# <type>: <subject>
+#
+# <body>
+#
+# AI Usage: <description of AI assistance>
+#
+# Co-authored-by: <AI Tool Name> <email>
+#
+# Types:
+# - feat: New feature
+# - fix: Bug fix
+# - test: Adding or updating tests
+# - refactor: Code refactoring
+# - docs: Documentation changes
+# - style: Code style changes (formatting)
+# - perf: Performance improvements
+# - chore: Build process or auxiliary tool changes
+#
+# Example:
+# feat: Implement user authentication with JWT
+#
+# - Created User entity with role-based access
+# - Implemented JWT token generation and validation
+# - Added authentication endpoints (register, login)
+# - Configured Spring Security with JWT filter
+#
+# AI Usage: Used GitHub Copilot to generate JWT utility boilerplate
+# and security configuration structure. Manually implemented
+# business logic and security rules.
+#
+# Co-authored-by: GitHub Copilot <copilot@github.com>
